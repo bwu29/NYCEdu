@@ -1,0 +1,10 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+
+  background-color: darkslategray;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

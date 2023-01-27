@@ -1,0 +1,67 @@
+.to-map-button{
+    top: 20px;
+    left: 1300px;
+    position:fixed;
+ 
+  background-color: rgb(78, 118, 169);
+  border: 1px solid transparent;
+  border-radius: 3px;
+  box-shadow: rgba(255, 255, 255, .4) 0 1px 0 0 inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.15385;
+  margin: 0;
+  outline: none;
+  padding: 8px .8em;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+.to-map{
+    position:relative;
+    top:0;
+    float:left;
+}
+
+.Resources{
+    position:relative;
+    color:#fff;
+    width:100%;
+    height:auto;
+}
+
+#Resources-Label{
+    position: relative;
+    text-align: center;
+    
+}
+
+.Overview{
+    position:absolute;
+    top: auto;
+}
+
+.Content{
+    text-align: left;
+}
+a:link {
+    color: rgb(136, 183, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
