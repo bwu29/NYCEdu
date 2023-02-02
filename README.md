@@ -1,4 +1,3 @@
-# NYCEdu
 # README
 # Term Project: A Closer Look at Public School Education in NYC
 
